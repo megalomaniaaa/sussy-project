@@ -1,0 +1,16 @@
+body{
+    color:rgba(105, 244, 107, 0.641);
+    background:cadetblue;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+.name_of_obj,#rusult_obj_name,#rusult_obj_accuracy{
+    color:rgba(35, 69, 68, 0.597);
+}
+#camera{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
